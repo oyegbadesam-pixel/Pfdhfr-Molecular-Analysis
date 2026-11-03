@@ -1,5 +1,5 @@
 
-# Molecular Characterisation of the *Plasmodium falciparum dhfr* Gene in Clinical Isolates from Ifo, Ogun State, Nigeria
+# Molecular Characterisation of the *Plasmodium falciparum dhfr* Gene in Clinical Isolates from Ogun State, Nigeria
 
 ## Project Overview
 
