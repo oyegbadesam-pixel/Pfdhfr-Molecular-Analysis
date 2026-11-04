@@ -1,0 +1,38 @@
+
+# Unpublished research data
+*.ab1
+*.fastq
+*.fq
+*.fasta
+*.fa
+*.fna
+*.bam
+*.bai
+*.sam
+*.vcf
+*.bcf
+*.gb
+*.gbk
+
+# Unpublished analysis outputs
+*.nwk
+*.treefile
+*.contree
+*.iqtree
+*.ckp.gz
+*.splits.nex
+
+# Figures and reports
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.xlsx
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
